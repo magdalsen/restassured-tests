@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-30T14:32:42 CEST" name="Surefire suite" finished-at="2024-04-30T14:32:45 CEST" duration-ms="2541">
+    <groups>
+    </groups>
+    <test started-at="2024-04-30T14:32:42 CEST" name="Surefire test" finished-at="2024-04-30T14:32:45 CEST" duration-ms="2541">
+      <class name="tests.GitHubApiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.GitHubApiTest@29626d54]" started-at="2024-04-30T14:32:42 CEST" name="setUp" finished-at="2024-04-30T14:32:42 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGetUserDetails()[pri:0, instance:tests.GitHubApiTest@29626d54]" started-at="2024-04-30T14:32:42 CEST" name="testGetUserDetails" finished-at="2024-04-30T14:32:45 CEST" duration-ms="2513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserDetails -->
+      </class> <!-- tests.GitHubApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
